@@ -2,40 +2,45 @@
 const carsData = [
     {
         id: 1,
-        car: "Toyota Camry",
-        imageUrl: "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2024/202401/20240113/honda-civic-2.0-16v-flexone-ex-4p-cvt-wmimagem11105120122.jpg?s=fill&w=1920&h=1440&q=75",
-        nextReservation: "03-01",
+        car: "Mini Cooper 2022",
+        imageUrl:
+            "https://garagem360.com.br/wp-content/uploads/2023/02/Mini-Cooper-SE-conversivel-tres.jpg",
+        nextReservation: "11/07",
         status: "Available",
         rating: " ★ ★ ★ ★",
     },
     {
         id: 2,
-        car: "Honda Accord",
-        imageUrl: "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2024/202401/20240113/honda-civic-2.0-16v-flexone-ex-4p-cvt-wmimagem11105120122.jpg?s=fill&w=1920&h=1440&q=75",
-        nextReservation: "03-05",
+        car: "Honda Civic 2023",
+        imageUrl:
+            "https://cdn.motor1.com/images/mgl/W81RXg/s1/honda-civic-sedan-e-hev-2023.webp",
+        nextReservation: "06/09",
         status: "Reservado",
-        rating: " ★ ★ ★ ★ ★",
+        rating: " ★ ★ ★ ★ ",
     },
     {
         id: 3,
-        car: "Ford Mustang",
-        imageUrl: "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2024/202401/20240113/honda-civic-2.0-16v-flexone-ex-4p-cvt-wmimagem11105120122.jpg?s=fill&w=1920&h=1440&q=75",
-        nextReservation: "03-10",
+        car: "Ford Mustang 2024",
+        imageUrl:
+            "https://media.ed.edmunds-media.com/ford/mustang/2024/oem/2024_ford_mustang_coupe_dark-horse_fq_oem_1_1600x1067.jpg",
+        nextReservation: "26/10",
         status: "Available",
-        rating: " ★ ★ ",
+        rating: " ★ ★ ★ ★ ★ ",
     },
     {
         id: 4,
-        car: "Chevrolet Camaro",
-        imageUrl: "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2024/202401/20240113/honda-civic-2.0-16v-flexone-ex-4p-cvt-wmimagem11105120122.jpg?s=fill&w=1920&h=1440&q=75",
+        car: "Chevrolet Camaro 2024",
+        imageUrl:
+            "https://www.infomoney.com.br/wp-content/uploads/2019/06/camaro.jpg?fit=900%2C675&quality=70&strip=all",
         nextReservation: "03-15",
         status: "Available",
-        rating: " ★ ★ ★ ★ ★",
+        rating: " ★ ★ ★",
     },
     {
         id: 5,
-        car: "BMW X5",
-        imageUrl: "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2024/202401/20240113/honda-civic-2.0-16v-flexone-ex-4p-cvt-wmimagem11105120122.jpg?s=fill&w=1920&h=1440&q=75",
+        car: "BMW X5 2021",
+        imageUrl:
+            "https://s2-autoesporte.glbimg.com/_MeO8FG0z_DfmE40ZJpq4Ff-_FE=/0x0:1600x1066/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2023/d/f/dFIsqHRcyAgJMoB4sqDg/p90489754-highres-the-new-bmw-x5-xdriv.jpg",
         nextReservation: "03-20",
         status: "Reservado",
         rating: " ★",
